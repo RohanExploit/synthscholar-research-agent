@@ -33,8 +33,16 @@
       "new_papers": 0,
       "top_arbitrage_score": 63.0,
       "summary": "* **Breakthrough Signal:** Open-source infrastructure for agentic tool use shows strong momentum via `langgenius/dify`, `langflow-ai/langflow`, and `anthropics/claude-code`, while relevant preprint ac"
+    },
+    {
+      "timestamp_utc": "2026-11-15T17:16:18.165435+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "As SynthScholar Principal Investigator, I present the following research opportunity in agentic tool use:\n\n*   **Breakthrough Signal:** Integrating multimodal vision encoding strategies (Brown et al.,"
     }
   ],
-  "total_harvests": 3,
-  "last_harvest_utc": "2026-11-15T16:53:21.105802+00:00"
+  "total_harvests": 4,
+  "last_harvest_utc": "2026-11-15T17:16:18.165435+00:00"
 }

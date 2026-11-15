@@ -35,7 +35,7 @@ def _call_gemini(prompt: str, system_instruction: str, api_key: str) -> tuple[st
     from google import genai
 
     client = genai.Client(api_key=api_key)
-    for model_name in ("gemini-4-hydrogen", "gemini-3.5-flash-lite"):
+    for model_name in ("gemini-3.1-flash-lite", "gemini-3.5-flash-lite", "gemini-4-hydrogen"):
         try:
             interaction = client.interactions.create(
                 model=model_name,
