@@ -25,8 +25,16 @@
       "new_papers": 0,
       "top_arbitrage_score": 63.0,
       "summary": "### SynthScholar Frontier Research Brief: `agentic ai tool use`\n- **Top Newly Harvested Preprint**: *Unbundling Multimodal Vision Encoding* (`2611.17334v1`, Arbitrage Score `63.0/100`, Status: `OPEN-C"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:53:21.105802+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "* **Breakthrough Signal:** Open-source infrastructure for agentic tool use shows strong momentum via `langgenius/dify`, `langflow-ai/langflow`, and `anthropics/claude-code`, while relevant preprint ac"
     }
   ],
-  "total_harvests": 2,
-  "last_harvest_utc": "2026-11-15T16:46:48.300739+00:00"
+  "total_harvests": 3,
+  "last_harvest_utc": "2026-11-15T16:53:21.105802+00:00"
 }
