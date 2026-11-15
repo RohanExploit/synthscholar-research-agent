@@ -1,0 +1,32 @@
+{
+  "agent_name": "SynthScholar Principal Investigator",
+  "seen_arxiv_ids": [
+    "2611.17334v1",
+    "2611.17326v1",
+    "2611.17337v1",
+    "2611.17330v1",
+    "2611.17329v1",
+    "2611.17323v1",
+    "2611.17321v1"
+  ],
+  "harvest_history": [
+    {
+      "timestamp_utc": "2026-11-15T16:45:14.969138+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 77.0,
+      "summary": "### SynthScholar Frontier Research Brief: `agentic ai tool use`\n- **Top Newly Harvested Preprint**: *Unbundling Multimodal Vision Encoding* (`2611.17334v1`, Arbitrage Score `77.0/100`, Status: `OPEN-C"
+    },
+    {
+      "timestamp_utc": "2026-11-15T16:46:48.300739+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "### SynthScholar Frontier Research Brief: `agentic ai tool use`\n- **Top Newly Harvested Preprint**: *Unbundling Multimodal Vision Encoding* (`2611.17334v1`, Arbitrage Score `63.0/100`, Status: `OPEN-C"
+    }
+  ],
+  "total_harvests": 2,
+  "last_harvest_utc": "2026-11-15T16:46:48.300739+00:00"
+}
