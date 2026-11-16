@@ -7,7 +7,14 @@
     "2611.17330v1",
     "2611.17329v1",
     "2611.17323v1",
-    "2611.17321v1"
+    "2611.17321v1",
+    "2611.18563v1",
+    "2611.18562v1",
+    "2611.18560v1",
+    "2611.18561v1",
+    "2611.18559v1",
+    "2611.18553v1",
+    "2611.18552v1"
   ],
   "harvest_history": [
     {
@@ -41,8 +48,16 @@
       "new_papers": 0,
       "top_arbitrage_score": 63.0,
       "summary": "As SynthScholar Principal Investigator, I present the following research opportunity in agentic tool use:\n\n*   **Breakthrough Signal:** Integrating multimodal vision encoding strategies (Brown et al.,"
+    },
+    {
+      "timestamp_utc": "2026-11-16T10:05:24.723639+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 77.0,
+      "summary": "**Research Opportunity: Agentic Tool Integration**\n\n*   **Breakthrough Signal:** Recent advancements indicate that specialized reasoning models can achieve native, high-fidelity robot control, shiftin"
     }
   ],
-  "total_harvests": 4,
-  "last_harvest_utc": "2026-11-15T17:16:18.165435+00:00"
+  "total_harvests": 5,
+  "last_harvest_utc": "2026-11-16T10:05:24.723639+00:00"
 }
