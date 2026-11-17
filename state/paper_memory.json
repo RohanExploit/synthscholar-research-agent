@@ -14,7 +14,8 @@
     "2611.18561v1",
     "2611.18559v1",
     "2611.18553v1",
-    "2611.18552v1"
+    "2611.18552v1",
+    "2501.00001v1"
   ],
   "harvest_history": [
     {
@@ -56,8 +57,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 77.0,
       "summary": "**Research Opportunity: Agentic Tool Integration**\n\n*   **Breakthrough Signal:** Recent advancements indicate that specialized reasoning models can achieve native, high-fidelity robot control, shiftin"
+    },
+    {
+      "timestamp_utc": "2026-11-17T11:00:56.849213+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 1,
+      "new_papers": 1,
+      "top_arbitrage_score": 99.0,
+      "summary": "As Principal Investigator, I present the following research synthesis regarding Agentic AI Tool Use:\n\n*   **Breakthrough Signal:** *Autonomous Multi-Agent Coordination in Agentic Ai Tool Use* (2501.00"
     }
   ],
-  "total_harvests": 5,
-  "last_harvest_utc": "2026-11-16T10:05:24.723639+00:00"
+  "total_harvests": 6,
+  "last_harvest_utc": "2026-11-17T11:00:56.849213+00:00"
 }
