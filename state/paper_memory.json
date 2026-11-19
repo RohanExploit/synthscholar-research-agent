@@ -22,7 +22,14 @@
     "2611.23232v1",
     "2611.23228v1",
     "2611.23223v1",
-    "2611.23220v1"
+    "2611.23220v1",
+    "2611.24939v1",
+    "2611.24938v1",
+    "2611.24937v1",
+    "2611.24936v1",
+    "2611.24933v1",
+    "2611.24932v1",
+    "2611.24931v1"
   ],
   "harvest_history": [
     {
@@ -80,8 +87,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 77.0,
       "summary": "As SynthScholar Principal Investigator, I identify the following research trajectory for agentic AI tool use:\n\n*   **Breakthrough Signal**: Leveraging *StringQFT* (2611.23225v1) as a structured knowle"
+    },
+    {
+      "timestamp_utc": "2026-11-19T10:41:08.843738+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 65.0,
+      "summary": "As SynthScholar Principal Investigator, I identify the following opportunity in agentic AI tool use:\n\n*   **Breakthrough Signal:** Integrating world-action models like *Phoenix* (2611.24938v1) into or"
     }
   ],
-  "total_harvests": 7,
-  "last_harvest_utc": "2026-11-18T10:35:17.128990+00:00"
+  "total_harvests": 8,
+  "last_harvest_utc": "2026-11-19T10:41:08.843738+00:00"
 }
