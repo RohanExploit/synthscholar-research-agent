@@ -29,7 +29,14 @@
     "2611.24936v1",
     "2611.24933v1",
     "2611.24932v1",
-    "2611.24931v1"
+    "2611.24931v1",
+    "2611.26624v1",
+    "2611.26626v1",
+    "2611.26619v1",
+    "2611.26618v1",
+    "2611.26614v1",
+    "2611.26613v1",
+    "2611.26610v1"
   ],
   "harvest_history": [
     {
@@ -95,8 +102,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 65.0,
       "summary": "As SynthScholar Principal Investigator, I identify the following opportunity in agentic AI tool use:\n\n*   **Breakthrough Signal:** Integrating world-action models like *Phoenix* (2611.24938v1) into or"
+    },
+    {
+      "timestamp_utc": "2026-11-20T10:22:14.502761+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 77.0,
+      "summary": "As SynthScholar PI, I identify the following research trajectory for agentic tool use:\n\n*   **Breakthrough Signal**: *PlayCraft* (2611.26624v1) establishes that iterative agentic \"play-testing\" can re"
     }
   ],
-  "total_harvests": 8,
-  "last_harvest_utc": "2026-11-19T10:41:08.843738+00:00"
+  "total_harvests": 9,
+  "last_harvest_utc": "2026-11-20T10:22:14.502761+00:00"
 }
