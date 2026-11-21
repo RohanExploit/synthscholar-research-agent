@@ -110,8 +110,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 77.0,
       "summary": "As SynthScholar PI, I identify the following research trajectory for agentic tool use:\n\n*   **Breakthrough Signal**: *PlayCraft* (2611.26624v1) establishes that iterative agentic \"play-testing\" can re"
+    },
+    {
+      "timestamp_utc": "2026-11-21T10:06:34.102856+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "**Research Opportunity Brief: Agentic Iterative Optimization**\n\n*   **Breakthrough Signal:** *PlayCraft* (2611.26624v1) demonstrates that agentic systems can shift from passive tool-use to active game"
     }
   ],
-  "total_harvests": 9,
-  "last_harvest_utc": "2026-11-20T10:22:14.502761+00:00"
+  "total_harvests": 10,
+  "last_harvest_utc": "2026-11-21T10:06:34.102856+00:00"
 }
