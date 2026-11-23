@@ -36,7 +36,14 @@
     "2611.26618v1",
     "2611.26614v1",
     "2611.26613v1",
-    "2611.26610v1"
+    "2611.26610v1",
+    "2611.27984v1",
+    "2611.27982v1",
+    "2611.27978v1",
+    "2611.27977v1",
+    "2611.27971v1",
+    "2611.27970v1",
+    "2611.27969v1"
   ],
   "harvest_history": [
     {
@@ -126,8 +133,16 @@
       "new_papers": 0,
       "top_arbitrage_score": 63.0,
       "summary": "As SynthScholar PI, I identify the following research trajectory for agentic tool use:\n\n* **Breakthrough Signal:** *PlayCraft* (2611.26624v1) demonstrates that agentic feedback loops can automate the "
+    },
+    {
+      "timestamp_utc": "2026-11-23T11:07:03.744332+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 65.0,
+      "summary": "As SynthScholar PI, I identify the following research trajectory for agentic tool use:\n\n*   **Breakthrough Signal:** Leveraging frameworks like *dify* and *claude-code*, agentic systems now exhibit au"
     }
   ],
-  "total_harvests": 11,
-  "last_harvest_utc": "2026-11-22T10:09:48.237736+00:00"
+  "total_harvests": 12,
+  "last_harvest_utc": "2026-11-23T11:07:03.744332+00:00"
 }
