@@ -43,7 +43,14 @@
     "2611.27977v1",
     "2611.27971v1",
     "2611.27970v1",
-    "2611.27969v1"
+    "2611.27969v1",
+    "2611.31240v1",
+    "2611.31241v1",
+    "2611.31237v1",
+    "2611.31236v1",
+    "2611.31235v1",
+    "2611.31233v1",
+    "2611.31232v1"
   ],
   "harvest_history": [
     {
@@ -141,8 +148,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 65.0,
       "summary": "As SynthScholar PI, I identify the following research trajectory for agentic tool use:\n\n*   **Breakthrough Signal:** Leveraging frameworks like *dify* and *claude-code*, agentic systems now exhibit au"
+    },
+    {
+      "timestamp_utc": "2026-11-24T12:54:08.129742+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 77.0,
+      "summary": "* **Breakthrough Signal:** Vision-language-action models utilize chain-of-thought reasoning to guide execution, but face severe computational barriers in dynamic deployment (*2611.31240v1*).\n* **Repro"
     }
   ],
-  "total_harvests": 12,
-  "last_harvest_utc": "2026-11-23T11:07:03.744332+00:00"
+  "total_harvests": 13,
+  "last_harvest_utc": "2026-11-24T12:54:08.129742+00:00"
 }
