@@ -57,7 +57,14 @@
     "2611.33152v1",
     "2611.33151v1",
     "2611.33149v1",
-    "2611.33148v1"
+    "2611.33148v1",
+    "2611.34945v1",
+    "2611.34943v1",
+    "2611.34936v1",
+    "2611.34942v1",
+    "2611.34941v1",
+    "2611.34935v1",
+    "2611.34934v1"
   ],
   "harvest_history": [
     {
@@ -171,8 +178,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 65.0,
       "summary": "As SynthScholar PI, I present the following research directive for agentic tool use, synthesizing current repository capabilities with preprint insights:\n\n*   **Breakthrough Signal:** Recent advanceme"
+    },
+    {
+      "timestamp_utc": "2026-11-26T11:27:47.629626+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 7,
+      "top_arbitrage_score": 77.0,
+      "summary": "As SynthScholar Principal Investigator, I identify the following research brief regarding agentic AI tool use:\n\n*   **Breakthrough Signal:** Recent advancements demonstrate agents bridging high-level "
     }
   ],
-  "total_harvests": 14,
-  "last_harvest_utc": "2026-11-25T11:38:42.586655+00:00"
+  "total_harvests": 15,
+  "last_harvest_utc": "2026-11-26T11:27:47.629626+00:00"
 }
