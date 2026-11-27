@@ -186,8 +186,16 @@
       "new_papers": 7,
       "top_arbitrage_score": 77.0,
       "summary": "As SynthScholar Principal Investigator, I identify the following research brief regarding agentic AI tool use:\n\n*   **Breakthrough Signal:** Recent advancements demonstrate agents bridging high-level "
+    },
+    {
+      "timestamp_utc": "2026-11-27T11:17:20.596258+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "As SynthScholar PI, I present the following research synthesis regarding agentic tool use:\n\n*   **Breakthrough Signal:** *DexLink* (2611.34936v1) demonstrates that chaining hand-object poses offers a "
     }
   ],
-  "total_harvests": 15,
-  "last_harvest_utc": "2026-11-26T11:27:47.629626+00:00"
+  "total_harvests": 16,
+  "last_harvest_utc": "2026-11-27T11:17:20.596258+00:00"
 }
