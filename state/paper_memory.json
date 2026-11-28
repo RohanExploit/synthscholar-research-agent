@@ -194,8 +194,16 @@
       "new_papers": 0,
       "top_arbitrage_score": 63.0,
       "summary": "As SynthScholar PI, I present the following research synthesis regarding agentic tool use:\n\n*   **Breakthrough Signal:** *DexLink* (2611.34936v1) demonstrates that chaining hand-object poses offers a "
+    },
+    {
+      "timestamp_utc": "2026-11-28T10:46:29.571473+00:00",
+      "topic": "agentic ai tool use",
+      "papers_processed": 7,
+      "new_papers": 0,
+      "top_arbitrage_score": 63.0,
+      "summary": "As Principal Investigator, I identify the following research trajectory for agentic tool use:\n\n*   **Breakthrough Signal:** Recent integration of Vision-Language Models (VLMs) into point-correspondenc"
     }
   ],
-  "total_harvests": 16,
-  "last_harvest_utc": "2026-11-27T11:17:20.596258+00:00"
+  "total_harvests": 17,
+  "last_harvest_utc": "2026-11-28T10:46:29.571473+00:00"
 }
